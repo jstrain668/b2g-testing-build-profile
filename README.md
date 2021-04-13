@@ -1,1 +1,1 @@
-# b2g-testing-build-profile
+# Testing Java with Maven Examples
